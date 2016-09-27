@@ -4,7 +4,7 @@ title: Amputações Congénitas
 permalink: /amputacoes-congenitas.html
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 As amputações congénitas são geralmente realizadas em crianças e adultos jovens.
 

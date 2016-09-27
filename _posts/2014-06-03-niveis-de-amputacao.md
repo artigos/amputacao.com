@@ -4,7 +4,7 @@ title: Níveis de Amputação
 permalink: /niveis-de-amputacao.html
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 Para Carvalho (2001) e May (1993), o membro residual de amputação é denominado coto.
 

@@ -3,7 +3,7 @@ layout: default
 title: Fisioterapia e Reabilitação
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 Para Carvalho (2001) a intervenção da Fisioterapia na reabilitação dos amputados pode ser considerada em duas etapas:
 

@@ -3,7 +3,7 @@ layout: default
 title: Amputação
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 Amputação é uma palavra que deriva do latim, com o seguinte significado: _ambi_ em volta de; e _putatio_ podar/retirar.
 
@@ -19,7 +19,7 @@ Por vezes, a amputação de um membro corresponde mesmo ao último recurso para 
 
 A amputação é a perda de uma parte do “EU”, em que a imagem corporal fica comprometida e profundamente alterada. Esta alteração produz uma desvantagem física permanente, provocando muitas vezes alterações das necessidades fisiológicas, psicológicas e sociais.
 
-##HISTÓRIA DAS AMPUTAÇÕES
+## HISTÓRIA DAS AMPUTAÇÕES
 
 As amputações de membros são tão antigas quanto a própria humanidade, a amputação mais antiga, é um crânio humano de 45 mil anos, com os dentes desgastados e alinhados, que indica a presença de membros superiores amputados.
 

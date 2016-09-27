@@ -4,7 +4,7 @@ title: Amputações Tumorais
 permalink: /amputacoes-tumorais.html
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 As amputações tumorais têm diminuído consideravelmente graças ao diagnóstico precoce, a radioterapia, a quimioterapia, a utilização de endoprótese, a enxertos e outras cirurgias, assim, com a introdução destas novas abordagens, a sobrevivência global aumentou em cerca de 75% (Gonçalves & Cassone, 2001; Rougraff et al, 1994).
 

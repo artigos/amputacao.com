@@ -4,7 +4,7 @@ title: Amputações Traumáticas
 permalink: /amputacoes-traumaticas.html
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 As lesões traumáticas aparecem mais frequentemente nos pacientes do sexo masculino, com idade inferior a 50 anos, mas é também significativa nos jovens e crianças (The Global Lower Extremity Amputation Study Group, 2000; Schoppen et al, 2001).
 

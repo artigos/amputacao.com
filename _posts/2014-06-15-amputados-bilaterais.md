@@ -4,7 +4,7 @@ title: Amputados bilaterais
 permalink: /amputados-bilaterais.html
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 As amputações bilaterais dos membros inferiores geralmente estão associadas às patologias vasculares, neuropáticas e traumáticas e ocorrem nos níveis transtibiais e transfemorais.
 

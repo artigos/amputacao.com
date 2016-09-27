@@ -4,7 +4,7 @@ title: Amputações Vasculares
 permalink: /amputacoes-vasculares.html
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 As amputações em pacientes com obstrução arterial (associados ou não à Diabetes mellitus) representam a maior percentagem (cerca de 75%) das amputações dos MIs, sendo representada mais frequentemente pela população com idade superior a 50 anos (Carvalho, 2001; Mimoso, 2001; Schoppen et al, 2001).
 

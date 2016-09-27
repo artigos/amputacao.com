@@ -4,7 +4,7 @@ title: Etiologia da Amputação
 permalink: /etiologia-da-amputacao.html
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 Para Carvalho (2001), May (1993) e Eskelinen, et al (2004) as principais causas de amputação são:
 

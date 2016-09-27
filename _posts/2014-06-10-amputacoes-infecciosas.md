@@ -4,7 +4,7 @@ title: Amputações Infecciosas
 permalink: /amputacoes-infecciosas.html
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
 As amputações infecciosas também têm sido menos frequentes em virtude dos grandes avanços laboratoriais e do desenvolvimento de medicamentos mais específicos.
 
